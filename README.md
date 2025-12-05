@@ -1,4 +1,4 @@
-# ðŸ‘¹ Mr Dev â€” The Devilish Ban Tool
+MUZAMIL BAN TOOL V1
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=AA0000&center=true&vCenter=true&width=900&lines=ðŸ‘¹+Mr+Dev+â€”+Wrought+in+Mischief;Summon+the+CLI+and+taste+the+chaos" alt="Mr Dev Typing" />
@@ -35,6 +35,6 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install python-dotenv
-git clone https://github.com/jjameswillaims038-jpg/Mr-dev-legit-banning-tool-2025
+git clone https://github.com/Muzamilx2008/Muzamil-elite-ban-v1/tree/main
 cd Mr-dev-legit-banning-tool-2025
-python ban.py
+python muzamil.py
